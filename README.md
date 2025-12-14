@@ -40,7 +40,7 @@ Power BI Dashboard
 ![Mobile Sales Dashboard](Screenshot/Dashboard.jpg)
 
 
-![Mobile Sales Dashboard](Screenshot/Same_Period _Last_Year_report.jpg)
+![Mobile Sales Dashboard](Screenshot/Same_Period_Last_Year_report.jpg)
 
 
 ![Mobile Sales Dashboard](Screenshot/MTD_Report.jpg)
