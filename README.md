@@ -36,10 +36,12 @@ Power BI Dashboard
 
 
 ### Power BI Dashboard
-## 📊 Dashboard Preview
 
 ![Mobile Sales Dashboard](Screenshot/Dashboard.jpg)
 
+![Mobile Sales Dashboard](Screenshot/Dashboard Preview.jpg)
+
+![Mobile Sales Dashboard](Screenshot/MTD Report.jpg)
 
 
 
