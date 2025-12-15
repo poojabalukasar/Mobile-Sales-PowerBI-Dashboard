@@ -1,4 +1,4 @@
-# Mobile-Sales-PowerBI-Dashboard
+# Mobile-Sales-Dashboard
 Power BI dashboard for analyzing mobile sales performance
 
 
